@@ -1,12 +1,7 @@
----
-title: 'Member_SkillSET'
-disqus: hackmd
----
-
 # Member_SkillSET
 
 ![issue](https://img.shields.io/github/issues/hihumikan/member_skillset?style=flat-square&logo=appveyor)
-![stars](	https://img.shields.io/github/stars/hihumikan/member_skillset?style=flat-square&logo=appveyor)
+![stars](https://img.shields.io/github/stars/hihumikan/member_skillset?style=flat-square&logo=appveyor)
 ![liecense](https://img.shields.io/github/license/hihumikan/member_skillset?style=flat-square&logo=appveyor)
 
 ## What's this?
